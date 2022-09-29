@@ -20,3 +20,12 @@ Here are some ideas to get you started:
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Azzar</h1>
 <h4 align="center">a freelance developer an also an engineering students at yogyakarta state university, see my <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
 </div>
+
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KushalTanna24.KushalTanna24">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Kushal+Tanna!;&center=true&size=30">
+  </a>
+</h1>
