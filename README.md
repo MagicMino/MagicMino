@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<img align="center" src=![snake gif](https://github.com/MagicMino/MagicMino/blob/output/github-contribution-grid-snake.gif)>
+<img align="center" src=![snake gif](https://github.com/Minodevito/Minodevito/blob/output/github-contribution-grid-snake.gif)>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -204,11 +204,11 @@ Badges from https://badges.pages.dev/
 		
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=magicmino&show_icons=true&locale=en" alt="magicmino" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miodevito&show_icons=true&locale=en" alt="minodevito" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=magicmino&" alt="magicmino" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minodevito&" alt="minodevito" /></p>
 													      
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=magicmino&show_icons=true&locale=en&layout=compact" alt="magicmino" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miinodevito&show_icons=true&locale=en&layout=compact" alt="minodevito" /></p>
 </div>
 
 
