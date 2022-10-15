@@ -82,11 +82,11 @@ Badges from https://badges.pages.dev/
 <div align="center">
 <h1 align="center"> <img align="center" width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">Hiya, I'm Mino! </h1>
 	
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=magicmino&label=Profile%20views&color=0e75b6&style=flat" alt="magicmino" /> 
-<img align="left" align="left" alt="GitHub followers" src="https://img.shields.io/github/followers/MagicMino?label=Github%20Followers&style=social"> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=minodevito&label=Profile%20views&color=0e75b6&style=flat" alt="minodevito" /> 
+<img align="left" align="left" alt="GitHub followers" src="https://img.shields.io/github/followers/Minodevito?label=Github%20Followers&style=social"> </p>
 	
 <p align="center">
-  <a href="https://github.com/MagiMino">
+  <a href="https://github.com/Minodevito">
   <img src="https://readme-typing-svg.herokuapp.com?size=23&center=false&lines=Welcome+to+my+Github+Profile!;" things&center=true&width=380&height=40"> 
  <div> <img src="https://raw.githubusercontent.com/MagicMino/MagicMino/output/github-contribution-grid-snake.svg"/>
   
@@ -204,11 +204,11 @@ Badges from https://badges.pages.dev/
 		
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miodevito&show_icons=true&locale=en" alt="minodevito" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minodevito&show_icons=true&locale=en" alt="minodevito" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minodevito&" alt="minodevito" /></p>
 													      
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miinodevito&show_icons=true&locale=en&layout=compact" alt="minodevito" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minodevito&show_icons=true&locale=en&layout=compact" alt="minodevito" /></p>
 </div>
 
 
